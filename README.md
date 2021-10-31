@@ -34,5 +34,7 @@ mkdir uploads
 ```
 nodemon index.js
 ```
-7. open the index.html and test youself 
+7. open the index.html
+8. Test youself  
+   - Exception: you can submit the without choosing any files because the back-end sent the success response when there is no error in express error handler. when      you don't choose any file that there is no error to catch
 

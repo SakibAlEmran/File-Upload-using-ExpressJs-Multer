@@ -1,3 +1,10 @@
+/* 
+    Title: File-upload using express and multer
+    Description: this file tackle all the operations to upload a proper files
+    Author: Md.Sakib-Al-Emran
+    Date: 31-10-2021
+*/
+
 const express = require('express');
 const multer = require("multer");
 const path = require("path");

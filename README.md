@@ -34,9 +34,13 @@ mkdir uploads
 ```
 nodemon index.js
 ```
-7. open the index.html
-8. Test youself  
+7. Your app should be available in port 3000
+8. open the index.html
+9. Test youself  
    - Exception: you can submit the without choosing any files because the back-end sent the success response when there is no error in express error handler. when      you don't choose any file that means there is no error to catch.
 
 ## Credit 
 I am inspired Sumit Saha { https://github.com/learnwithsumit/express-js-tutorial } for this project.
+
+## contact
+email: sakib.imran0909@gmail.com

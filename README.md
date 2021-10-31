@@ -18,6 +18,9 @@ cd File-Upload-using-ExpressJs-Multer/
 ```
 4. Setup Dependencies: You should have nodejs install in your machine
 ```
+npm install nodemon 
+```
+```
 npm install express --save
 ```
 ```

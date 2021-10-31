@@ -30,4 +30,9 @@ npm add multer
 ```
 mkdir uploads
 ```
+6. start the server:
+```
+nodemon index.js
+```
+7. open the index.html and test youself 
 

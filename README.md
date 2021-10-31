@@ -42,5 +42,5 @@ nodemon index.js
 ## Credit 
 I am inspired Sumit Saha { https://github.com/learnwithsumit/express-js-tutorial } for this project.
 
-## contact
+## Contact
 email: sakib.imran0909@gmail.com

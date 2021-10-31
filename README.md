@@ -16,12 +16,15 @@ git clone https://github.com/SakibAlEmran/File-Upload-using-ExpressJs-Multer.git
 ```
 cd File-Upload-using-ExpressJs-Multer/
 ```
-4. Install Dependencies: You should have nodejs install in your machine
-i. install express
+4. Setup Dependencies: You should have nodejs install in your machine
 ```
 npm install express --save
 ```
-ii. install express
 ```
-npm install express --save
+npm add multer
 ```
+5. Create a directory To store the files
+```
+mkdir uploads
+```
+
